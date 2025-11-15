@@ -1,138 +1,98 @@
-# Qualification Checklist – Family Office Risk Suite
+# Qualification Checklist – Family Office Risk & Governance Suite
 
-This qualification tool ensures we engage with clients who fit the Family
-Office Risk Suite profile, value the work, and align with our delivery model.
+Use this checklist after (or during) discovery to determine:
 
-It is used after discovery but before sending any proposal.
-
----
-
-# 1. Overview
-
-A strong-fit client should score at least:
-
-- **12+ points = Excellent fit**  
-- **8–11 points = Conditional fit (proceed with caution)**  
-- **0–7 points = Poor fit (likely no-go)**
-
-Scoring is not rigid — it helps guide judgment and identify red flags.
+- Whether a prospect is a good fit.
+- Which package (HNWI, SFO, MFO) is most appropriate.
+- What initial scope and cadence make sense.
 
 ---
 
-# 2. Fit Criteria
+## 1. Strategic Fit
 
-## 2.1 Structural Fit (Max 6 points)
+- [ ] Prospect acknowledges that digital, vendor, and governance risks are real.  
+- [ ] There is openness to **quiet structural improvements**, not just point fixes.  
+- [ ] Prospect values privacy, discretion, and long-term relationships.  
+- [ ] Existing advisors and vendors are seen as partners, not adversaries.
 
-| Criterion | Points | Notes |
-|----------|--------|-------|
-| Operates as an SFO, MFO, or HNWI with multiple advisors | +2 | Target structure |
-| Has meaningful vendor/advisor stack (RIA, CPA, attorney, custodian) | +2 | Complexity enables value |
-| Has at least one central coordinator (COO, CIO, advisor) | +1 | Ensures engagement owner |
-| Family/office recently grew, changed, or restructured | +1 | High-impact timing |
+If most items are **unchecked**, this may not be the right moment or client.
 
 ---
 
-## 2.2 Risk & Pain Indicators (Max 6 points)
+## 2. Segment Fit
 
-| Criterion | Points | Notes |
-|----------|--------|-------|
-| Clear concern about cyber, privacy, governance, or vendor risk | +2 | Strong buying signal |
-| History of near-misses or small incidents | +2 | Simple value demonstration |
-| Lack of clarity on roles, responsibilities, or processes | +1 | Governance gap |
-| Vendor or advisor confusion/overlap | +1 | High-value fix |
+**HNWI / Principal (via Advisor)**
 
----
+- [ ] Primary relationship is with a trusted advisor (wealth, legal, banking, etc.).  
+- [ ] Principal prefers not to be directly involved in operational details.  
+- [ ] Advisor is willing to champion the engagement.
 
-## 2.3 Motivation & Appetite (Max 6 points)
+**Single-Family Office (SFO)**
 
-| Criterion | Points | Notes |
-|----------|--------|-------|
-| They want clarity and structure (not a tool) | +2 | Our core value |
-| They respect independence and non-conflicted role | +1 | Cultural alignment |
-| Principals or leadership can participate | +1 | Required for buy-in |
-| They can commit to brief working cadence (lightweight) | +1 | Reduces drag |
-| They appreciate discretion and low-noise delivery | +1 | Core differentiator |
+- [ ] Dedicated staff and processes exist to support the family.  
+- [ ] There is a desire for more structure and clarity in governance and risk.  
+- [ ] Leadership is open to outside specialist support.
 
----
+**Multi-Family Office (MFO)**
 
-## 2.4 Red Flags (Subtract up to –6 points)
-
-| Red Flag | Deduct | Notes |
-|----------|--------|-------|
-| Expectation of IT/helpdesk/MSSP services | –2 | Not our model |
-| "Install a tool and fix everything" mindset | –2 | Misaligned expectations |
-| Leadership not engaged / no decision-maker | –1 | Hard to land meaningful change |
-| Ultra price-sensitive or haggling | –1 | Wrong market segment |
-
-If total deductions exceed –4 → **recommend no-go**.
+- [ ] Platform serves multiple families with shared infrastructure and vendors.  
+- [ ] Leadership is thinking about differentiation via trust, governance, or resilience.  
+- [ ] There is interest in scalable frameworks and advisor enablement.
 
 ---
 
-# 3. Qualification Score Summary
+## 3. Pain & Urgency
 
-Add together scores from all sections:
+- [ ] Recent or ongoing incidents (fraud attempt, vendor breach, data exposure).  
+- [ ] Growth or complexity has increased (new entities, jurisdictions, families, staff).  
+- [ ] Leadership changes or succession planning underway.  
+- [ ] Explicit concern from principal or board about “how this is all being managed.”  
 
-STRUCTURAL:        __ / 6
-
-RISK/PAIN:         __ / 6
-
-MOTIVATION:        __ / 6
-
-RED FLAGS:         __ / -6
-
-
-TOTAL SCORE:       __ / 18
-
-
-**Interpretation:**
-
-- **12–18** → Strong fit  
-- **8–11** → Conditional fit (proceed with caution; document risks)  
-- **0–7** → Poor fit (propose light-touch offering or no-go)  
+The stronger the pain and urgency, the more likely a strategic engagement will move forward.
 
 ---
 
-# 4. Engagement Fit Signals
+## 4. Constraints & Risks
 
-## 4.1 Strong Fit Signals
-- Principal or coordinator explicitly wants “clarity,” “structure,” or “confidence.”
-- Recent liquidity event, leadership change, or new advisors.
-- Family exposure: travel, public profile, multiple entities.
-- Advisors want a non-competing partner.
-- High trust in your discretion.
+- [ ] Time: Key decision-makers have enough time/attention to engage.  
+- [ ] Trust: There is a baseline of trust in advisors and key staff.  
+- [ ] Politics: No severe internal conflicts likely to derail the work.  
+- [ ] Legal/Regulatory: No ongoing matters that would make this engagement inappropriate at this time.
 
-## 4.2 Conditional Fit Signals
-- No clear engagement owner.
-- Advisors appear territorial or defensive.
-- Client asks for reactive-only work.
-- Office is small with low complexity (may still benefit from core Posture Review).
-
-## 4.3 No-Go Signals
-- Treats this as pure IT work.
-- Only wants cybersecurity tools installed.
-- No access to principals or decision makers.
-- High-friction personality or “just tell me the cheapest option.”
+Note any red flags that might require adjusting scope or declining the engagement.
 
 ---
 
-# 5. Recommended Package Mapping
+## 5. Initial Scope Fit
 
-| Score Range | Recommended Package |
-|-------------|---------------------|
-| **12–18** | Enhanced Posture Review + Advisory options |
-| **8–11** | Core Posture Review; implementation optional |
-| **0–7** | Light assessment, educational brief, or referral |
+Based on discovery:
 
-This ensures client experience stays aligned with value.
+- [ ] Baseline assessment feels valuable (they want clarity).  
+- [ ] There is clear appetite for remediation, not just a report.  
+- [ ] Governance questions surfaced (who decides what, who owns risk).  
+- [ ] Ongoing advisory would meaningfully reduce anxiety or uncertainty.
+
+If these are mostly checked, a **phased engagement** (baseline → remediation → governance → advisory) is likely appropriate.
 
 ---
 
-# 6. Notes for Internal Use
+## 6. Advisor Alignment (If Applicable)
 
-- Always document **why** a “yes” or “no” decision was made.  
-- Store qualification notes alongside discovery summary.  
-- Red flags should be discussed openly before engagement.  
-- Low-friction, respectful, motivated clients often outperform scorecard math.
+- [ ] Advisor understands and supports our role.  
+- [ ] We have clarity on who “owns” the client relationship.  
+- [ ] Advisor sees how this engagement strengthens, not threatens, their position.  
+- [ ] Advisor is willing to be involved in key meetings and decisions.
 
-This checklist is not just a filter — it is a pattern recognizer for
-high-quality, low-stress engagements.
+If alignment is weak, prioritize more time with the advisor before advancing.
+
+---
+
+## 7. Go / No-Go / Not Now
+
+After reviewing this checklist, classify:
+
+- **Go:** Strong fit, clear value, alignment on approach.  
+- **No-Go:** Misaligned expectations, low appetite for structural change, or significant political/ethical concerns.  
+- **Not Now:** Timing, bandwidth, or other constraints suggest revisiting later.
+
+Capture rationale briefly and store it alongside the discovery notes for future reference.

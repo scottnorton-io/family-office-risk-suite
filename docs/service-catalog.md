@@ -1,116 +1,171 @@
-# Family Office Service Catalog (Draft)
+# Family Office Risk & Governance Service Catalog
 
-## 1. Family Office Cyber & Privacy Posture Assessment
+This catalog defines the core services, modules, and engagement patterns for the Family Office Risk & Governance Suite.
 
-**Who it's for:**  
-Family offices that suspect they have blind spots but don't yet have a
-structured view of cyber and privacy risk.
+It is organized by **client segment** and **workstream** so that we can:
 
-**What we do (high level):**
-- Map critical assets and data flows (people, devices, vendors).
-- Review existing controls and vendor claims.
-- Assess family member digital hygiene and household tech (including Smart TVs,
-  IoT, home offices).
-- Provide a prioritized "Top 10 Things to Fix Now" action list.
-
-**Key outputs:**
-- Executive summary (2–3 pages, board-ready).
-- Risk posture heatmap.
-- Prioritized remediation roadmap (90-day focus).
-- Optional: On-site or in-home visit for deeper review.
+- Quickly assemble an engagement scope.
+- Keep language consistent across marketing, sales, and delivery.
+- Ensure we deliver a platinum-level experience to HNWI, SFO, and MFO clients.
 
 ---
 
-## 2. HNWI Cyber & Privacy Protection Program
+## 1. Client Segments & Lanes
 
-**Who it's for:**  
-Families and principals whose personal exposure is high (public visibility,
-liquidity events, political or social prominence).
+We primarily serve three lanes:
 
-**What we do:**
-- Harden executive and family devices (laptops, phones, tablets).
-- Design safe digital behavior guidelines for family members.
-- Review social media exposure and reduce oversharing risk.
-- Implement and tune key safeguards (password management, MFA, backups).
+1. **HNWI / Principal (via Trusted Advisor)**
+   - Primary relationship is with a wealth manager, investment advisor, private banker, or legal counsel.
+   - Our role: a **quiet, expert extension** of their advisor team.
 
-**Key outputs:**
-- Individual/family digital hygiene scores.
-- Personalized security recommendations for each family member.
-- "Everyday Security Playbook" they can actually follow.
+2. **Single-Family Office (SFO)**
+   - Dedicated office and staff serving a single family.
+   - Our role: a **specialist overlay** for cyber, privacy, vendor, and governance risk.
 
----
+3. **Multi-Family Office (MFO)**
+   - A firm serving multiple families, often with complex tech stacks and vendor ecosystems.
+   - Our role: a **repeatable, scalable risk and governance partner**, integrated into their platform.
 
-## 3. Vendor & WealthTech Risk Oversight
-
-**Who it's for:**  
-Family offices that depend heavily on external custodians, RIAs, CPAs,
-WealthTech platforms, and niche providers.
-
-**What we do:**
-- Review critical vendors and their claims (SOC 2, ISO, PCI, etc.).
-- Evaluate security posture and governance at vendors.
-- Translate technical/compliance details into simple risk language.
-- Provide clear go/no-go or "continue with conditions" recommendations.
-
-**Key outputs:**
-- Vendor risk rating for each critical provider.
-- Red/yellow/green view for decision-makers.
-- Standardized vendor review checklist for ongoing use.
+Segment-specific package details are defined in `client-segments-and-packages.md`.
 
 ---
 
-## 4. Governance & Operating Model (Human API / Interacture)
+## 2. Core Workstreams
 
-**Who it's for:**  
-Growing family offices whose operations depend on a few key people and
-undocumented knowledge.
+### 2.1 Baseline Risk & Governance Assessment
 
-**What we do:**
-- Map roles, responsibilities, and decision flows.
-- Clarify who decides what, with which inputs, and on what timeline.
-- Design a simple "Human API" structure for how the team works together.
-- Document repeatable workflows and communication patterns.
+**Objective:** Establish a clear, decision-ready view of current risk exposure and governance maturity across personal, household, and office environments.
 
-**Key outputs:**
-- Operating model diagrams and RACI-style clarity.
-- Library of core workflows (playbooks).
-- Onboarding-friendly documentation for new team members.
+**Key Components:**
+
+- Digital footprint & privacy exposure review.
+- Endpoint, identity, and network posture (household, office, travel).
+- WealthTech and key vendor risk review.
+- Governance maturity assessment (how decisions are made, who is responsible for what).
+
+**Deliverables:**
+
+- Executive summary (3–5 pages, decision-ready).
+- Risk register with prioritized actions (90-day and 12-month lens).
+- Governance maturity snapshot and recommendations.
+
+### 2.2 Remediation & Stabilization
+
+**Objective:** Reduce risk quickly with minimal disruption, focusing on “quiet wins” that materially improve security and privacy.
+
+**Key Components:**
+
+- Targeted remediation plan (prioritized by impact vs. friction).
+- Vendor and WealthTech hardening (MFA, alerting, access reviews).
+- Data minimization and privacy hygiene improvements.
+- Coordination with existing IT/security providers where applicable.
+
+**Deliverables:**
+
+- 90-day remediation plan with clear owners and timelines.
+- Configuration and vendor change recommendations.
+- Updated risk register with residual risk view.
+
+### 2.3 Governance & Operating Model (Interacture)
+
+**Objective:** Build a human-first, durable operating model that clarifies how people work together, make decisions, and respond under stress.
+
+**Key Components:**
+
+- Interacture-based Human API definition: roles, responsibilities, and interaction patterns.
+- Decision rights and escalation paths (family, office, advisors, vendors).
+- Cadence: quarterly risk/governance reviews, annual deep dive.
+- Minimum documentation set (charter, RACI, communication protocols).
+
+**Deliverables:**
+
+- Governance charter and RACI map.
+- Interaction maps (who talks to whom, when, and about what).
+- Annual calendar of governance events (reviews, exercises, updates).
+
+### 2.4 Ongoing Advisory & Incident Readiness
+
+**Objective:** Provide an ongoing “quiet guardian” function for the family and office, with on-call support for material risk events.
+
+**Key Components:**
+
+- Retainer-based advisory (defined hours and response expectations).
+- Periodic reviews of incidents, near misses, and vendor changes.
+- Incident readiness: tabletop exercises, playbooks, war-room protocols.
+- Coordination with legal, insurers, and other professional advisors.
+
+**Deliverables:**
+
+- Quarterly or semi-annual risk/governance reports.
+- Incident readiness playbook tailored to the client.
+- After-action reviews (AAR) for real incidents or simulations.
 
 ---
 
-## 5. Crisis & Incident Readiness
+## 3. Service Modules
 
-**Who it's for:**  
-Family offices that worry about "what happens if something bad hits us" but
-don't have a plan.
+The workstreams above are composed of smaller **modules** that can be combined into custom engagements.
 
-**What we do:**
-- Define incident scenarios (ransomware, extortion, account takeover,
-  reputational attack).
-- Build step-by-step first-hour and first-24-hour playbooks.
-- Align external partners (legal, PR, cyber insurance, IR firms).
-- Run lightweight tabletop exercises.
+### 3.1 Cyber & Privacy Modules
 
-**Key outputs:**
-- Incident response playbook tailored to the family office.
-- Contact tree and escalation paths.
-- Lessons-learned and improvement actions from simulations.
+- Digital Footprint & Exposure Scan  
+- Household / Home Network Review  
+- Personal Device & Identity Hardening  
+- Travel Security & Location Privacy  
+- Social Media and Public Profile Risk Review  
+
+### 3.2 Vendor & WealthTech Modules
+
+- WealthTech Platform Risk Review  
+- Custodian and Bank Portal Security Review  
+- Key Vendor Access & Permissions Audit  
+- Vendor Risk Scoring and Tiering  
+- Exit & Replacement Playbook for Critical Vendors  
+
+### 3.3 Governance & Human API Modules
+
+- Roles & Responsibilities Mapping (Interacture)  
+- Decision Rights and Escalation Framework  
+- Communications Protocols (routine + crisis)  
+- Family Education & Awareness Workshops  
+- Scenario Planning and Tabletop Exercises  
+
+### 3.4 Incident Readiness & Response Modules
+
+- Incident Response Playbook Tailoring  
+- Insider Threat and Fraud Scenario Planning  
+- Data Breach & Extortion Response Coordination  
+- Third-Party Breach Advisory (e.g., vendor compromise)  
+- Post-Incident Review and Governance Adjustments  
 
 ---
 
-## 6. Ongoing Trusted Advisory (Retainer)
+## 4. Engagement Patterns & Pricing Lanes (Overview)
 
-**Who it's for:**  
-Family offices that want a long-term partner to keep an eye on risk, vendors,
-and change.
+Full details are in `client-segments-and-packages.md`. At a high level:
 
-**What we do:**
-- Monthly or quarterly risk review check-ins.
-- Oversight of critical vendors and projects.
-- Board/committee briefing materials.
-- Support for special events (liquidity events, acquisitions, transitions).
+- **HNWI/Principal Package:**  
+  - Light baseline assessment, targeted remediation, and ongoing advisory via their advisor.  
+  - Priced as a retainer, often bundled via partner firm.
 
-**Key outputs:**
-- Regular, concise updates: what's changed, what matters, what to do.
-- Standing agenda for risk and governance discussions.
-- Ad hoc support for emerging issues and decisions.
+- **SFO Package:**  
+  - Comprehensive baseline, governance build-out, and ongoing advisory with defined cadence.  
+  - Includes direct interaction with internal staff and key vendors.
+
+- **MFO Package:**  
+  - Platform-level risk and governance framework that can apply across multiple families.  
+  - Includes advisor enablement assets and templated reporting.
+
+---
+
+## 5. Quality Standards
+
+Every engagement should meet the following standards:
+
+- **Quiet:** Minimal disruption, no unnecessary complexity or noise.
+- **Clear:** Deliverables are written in decision-ready language.
+- **Grounded:** Recommendations are realistic and appropriate for the client’s risk appetite.
+- **Documented:** Key decisions, assumptions, and residual risks are captured.
+- **Repeatable:** We can deliver similar quality across clients using these templates and playbooks.
+
+This service catalog should be treated as a living document and updated as we refine our patterns and learn from client engagements.
