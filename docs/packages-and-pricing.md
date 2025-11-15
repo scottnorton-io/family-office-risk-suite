@@ -1,87 +1,233 @@
-# Packages & Pricing (Draft)
+# Packages and Pricing – Family Office Risk Suite
 
-> All pricing is indicative and will be tailored to each client, their scale,
-> complexity, and urgency. This is an internal working draft to align scope,
-> value, and guardrails.
-
----
-
-## Package A – Family Office Cyber & Privacy Posture Review
-
-**Who it's for**  
-Family offices that suspect they have blind spots but don’t yet have a
-structured picture of their risk.
-
-**Objective**  
-Deliver a clear, executive-level understanding of current cyber and privacy
-risk, with a focused 90-day action plan.
-
-**Scope (typical)**
-
-- Interviews with 2–4 key stakeholders (principal, CIO/COO, key admin).
-- Light-touch inventory of:
-  - Devices and endpoints (office + home office).
-  - Key applications and platforms.
-  - Critical vendors (custodians, RIAs, CPAs, WealthTech).
-- Review of existing policies and controls (if any).
-- Household/home-tech review (remote; on-site optional).
-- Risk rating by domain (people, tech, vendors, data).
-
-**Deliverables**
-
-- 2–3 page executive summary (board-ready).
-- Risk posture heatmap.
-- "Top 10 Things to Fix in the Next 90 Days."
-- Optional: debrief session with principal and/or CIO/COO.
-
-**Indicative Pricing**
-
-- Standard: **USD 15,000 – 30,000**
-- With on-site visit / higher complexity: **USD 30,000 – 45,000**
-
-**Typical Duration**
-
-- 3–6 weeks from kickoff to final presentation.
+This document defines the standard packages, pricing bands, and engagement
+structures for the Family Office Risk Suite. Pricing is intentionally presented
+as **bands**, not rigid numbers, to support discreet and context-aware quoting.
 
 ---
 
-## Package B – HNWI Cyber & Privacy Protection Program
+# 1. Overview
 
-**Who it's for**  
-Families and principals whose personal exposure is high (public visibility,
-recent liquidity, political/social prominence).
+We offer three primary engagement paths:
 
-**Objective**  
-Reduce personal digital risk for the principal and family members, and
-establish simple, sustainable security habits.
+1. **Posture Review (Assessment)** – A structured deep-dive across People,
+   Technology, Vendors, Governance, and Incidents.
+2. **Implementation Support (Optional)** – Guided execution of recommended
+   improvements.
+3. **Ongoing Advisory (Retainer)** – Quarterly or monthly support providing
+   structure, continuity, and a trusted touchpoint.
 
-**Scope (typical)**
-
-- Device hardening for 2–6 individuals (laptops, phones, tablets).
-- Account security review (email, banking, investment, travel, social).
-- Social media exposure review and recommendations.
-- Household/home-network review (Smart TVs, home assistants, cameras).
-- Simple “everyday security” guidance tailored to each person.
-
-**Deliverables**
-
-- Individual/family digital hygiene scores.
-- Personalized action list per family member.
-- Short "Everyday Security Playbook" in plain language.
-- Optional: live briefing session for the family.
-
-**Indicative Pricing**
-
-- Smaller family (2–3 core individuals): **USD 25,000 – 50,000**
-- Larger family / extended scope: **USD 50,000 – 75,000+**
-
-**Typical Duration**
-
-- 4–8 weeks, depending on access and scheduling.
+Packages are designed to be simple for families, advisors, and family offices.
 
 ---
 
-## Package C – Vendor & WealthTech Risk Oversight
+# 2. Package Summary
 
-**Who it's for**  
-Family offices deeply reliant on third-party custo
+| Package | Description | Typical Price Band |
+|--------|-------------|--------------------|
+| **Posture Review – Core** | Baseline assessment across six domains with clear recommendations. | \$6,500–\$12,500 |
+| **Posture Review – Enhanced** | Core review + deep dives (WealthTech, vendors, governance mapping). | \$12,500–\$22,500 |
+| **Implementation Support (Optional)** | Guided execution of critical fixes over 60–120 days. | \$7,500–\$35,000 depending on scope |
+| **Ongoing Advisory – Quarterly** | Ongoing support every quarter. | \$4,500–\$7,500 per quarter |
+| **Ongoing Advisory – Monthly** | Higher-touch monthly support. | \$2,000–\$4,500 per month |
+
+All pricing is contextual based on:
+
+- Number of family members in scope  
+- Number of entities / trusts  
+- Technology / vendor stack complexity  
+- Recent changes (liquidity event, staff change, new geography, etc.)  
+
+---
+
+# 3. Entry Package: Posture Review
+
+The Posture Review is the primary entry point for most clients.
+
+## 3.1 Core Posture Review
+
+**Focus Areas:**
+
+1. **People** – behaviors, permissions, travel, personal accounts  
+2. **Technology** – device posture, network, shared systems  
+3. **Vendors & Advisors** – RIAs, CPAs, attorneys, custodians  
+4. **Governance** – decision-making, responsibilities, cadence  
+5. **Incidents** – resilience, backups, response patterns  
+6. **Optional light inventory** – accounts, devices, platforms  
+
+**Deliverables:**
+
+- Structured findings (Green / Yellow / Red)  
+- Prioritized actions (Quick Wins + Medium-Term + Structural)  
+- Consolidated governance map  
+- Vendor risk summary  
+- Principal-level briefing  
+
+**Pricing Band:**  
+**\$6,500–\$12,500**
+
+Suitable for:
+
+- Newly formalized SFO  
+- HNWI with multiple advisors  
+- Lean family office teams
+
+---
+
+## 3.2 Enhanced Posture Review
+
+Includes everything in Core, plus:
+
+### Add-On Deep Dives:
+
+- **WealthTech / fintech stack analysis**
+- **Vendor oversight review** (custodians, RIAs, trustees, CPAs)
+- **Detailed governance mapping** (RACI-style)
+- **Incident simulation** (tabletop exercise)
+- **Family cyber snapshot** (family member risk mapping)
+
+**Pricing Band:**  
+**\$12,500–\$22,500**
+
+Suitable for:
+
+- Multi-family offices  
+- Complex SFOs  
+- Families with high public exposure  
+- Offices onboarding new principals  
+
+---
+
+# 4. Implementation Support (Optional)
+
+For families or offices who want help executing improvements.
+
+## Scope Includes:
+
+- Hardening high-risk systems  
+- Vendor changes or vendor oversight improvements  
+- Process and governance refinements  
+- Family cyber/privacy improvements  
+- Smart home / travel security adjustments  
+- Building accountability rhythms (weekly / biweekly)  
+
+**Structure:**  
+60–120 days depending on scope.
+
+**Pricing Band:**  
+**\$7,500–\$35,000**
+
+Depends heavily on:
+
+- Number of vendors involved  
+- Number of devices/accounts  
+- Number of family members  
+- Depth of structural change needed
+
+---
+
+# 5. Ongoing Advisory (Retainer)
+
+## 5.1 Quarterly Advisory
+
+- Quarterly posture updates  
+- Quarterly governance checks  
+- Vendor oversight snapshot  
+- Ongoing advisory access (reasonable-use model)  
+- Annual update of governance map  
+- Annual update of incident playbook  
+
+**Pricing Band:**  
+**\$4,500–\$7,500 per quarter**
+
+---
+
+## 5.2 Monthly Advisory (Higher Touch)
+
+- Monthly review cadence  
+- Ongoing vendor oversight coordination  
+- Support for travel, special projects, and transitions  
+- Incident triage support (advisory only)  
+- Priority access for principals  
+- Integration with advisors (RIA/CPA/Attorney)
+
+**Pricing Band:**  
+**\$2,000–\$4,500 per month**
+
+---
+
+# 6. Optional Add-On Modules
+
+These are optional enhancements for specific scenarios.
+
+### 6.1 Family Member Digital Protection  
+**\$1,500–\$4,500**
+
+### 6.2 Smart Home Review  
+**\$1,000–\$3,500**
+
+### 6.3 Travel Hardening Package  
+**\$1,500–\$4,500**
+
+### 6.4 WealthTech Vendor Deep Dive  
+**\$3,000–\$7,500**
+
+### 6.5 Tabletop Exercise (Incident Simulation)  
+**\$2,000–\$5,000**
+
+---
+
+# 7. Pricing Philosophy
+
+Pricing is designed to support:
+
+- Discretion  
+- Confidence  
+- Professionalism  
+- Flexibility  
+- High value-per-hour  
+- Low noise for the client  
+
+We do not nickel-and-dime.  
+We are not a tool reseller.  
+We do not compete with advisors.  
+
+We empower families and their advisors with clarity.
+
+---
+
+# 8. When to Adjust Pricing
+
+Pricing may increase based on:
+
+- Multiple jurisdictions  
+- Principal with high public profile  
+- Multiple entities and trusts  
+- Large vendor stack  
+- Complex family governance  
+- Incident history  
+- Compressed timelines  
+
+---
+
+# 9. Proposal Integration
+
+All pricing flows directly into:
+
+- `sales/proposal-risk-suite.md`
+- `sales/email-mini-proposal.md`
+- Discovery call script (coming)
+- Qualification checklist (coming)
+
+Package selection should always be justified by a clear fit rationale.
+
+---
+
+# 10. Future Pricing Extensions (v2.0)
+
+- Partner pricing for RIAs / MFOs  
+- Annual subscription bundles  
+- Light versions for advisors only  
+- Full-suite bundle pricing for multi-family offices  
+
+These extensions should be added **only after pilot feedback**.
